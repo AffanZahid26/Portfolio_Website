@@ -3,7 +3,7 @@ import { FiArrowUpRight } from 'react-icons/fi'
 
 const roles = [
   {
-    period: 'Oct 2025 — Sep 2026',
+    period: 'Oct 2025 — Nov 2026',
     company: 'Techtimize',
     title: 'Full Stack Developer',
     summary: 'Delivered production web and mobile features, designed clear microservice-style APIs, and integrated Meta and Google services for client products.',
